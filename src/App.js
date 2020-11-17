@@ -100,7 +100,6 @@ function Map() {
           </Card>
         </InfoWindow>
       )}
-
       <button className="btn-position" onClick={handleClick}>
         <BiCurrentLocation size="30px" />
       </button>
