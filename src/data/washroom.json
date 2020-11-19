@@ -10,12 +10,11 @@
       "properties": {
         "PARK_ID": 960,
         "FACILITYID": 28014,
-        "ADDRESS_MAP": "https://goo.gl/maps/xjkSDctfV7svYdKr6",
+        "ADDRESS_MAP": "https://goo.gl/maps/CVFGPZc2V4Gvf2ne8",
         "IMAGES": "toilet.png",
-        "NAME": "dummy",
+        "NAME": "CF Pacific Centre",
         "NAME_FR": "Planchodrome Bearbrook",
-        "ADDRESS": "8720 Russell Road",
-        "ADDRESS_FR": "8720, chemin Russell",
+        "ADDRESS": "701 W Georgia St, Vancouver, BC V7Y 1G5",
         "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
@@ -31,7 +30,7 @@
       "properties": {
         "PARK_ID": 1219,
         "ADDRESS_MAP": "https://goo.gl/maps/3xngsk8i7gQPncAr5",
-        "IMAGES": "toilet.png",
+        "IMAGES": "washroom01.jpeg",
         "FACILITYID": 28001,
         "NAME": "Safeway Robson",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
@@ -64,7 +63,7 @@
         "PARK_ID": 1219,
         "FACILITYID": 28001,
         "ADDRESS_MAP": "https://goo.gl/maps/2WNaHMBGAMd22a42A",
-        "IMAGES": "toilet.png",
+        "IMAGES": "washroom02.jpeg",
         "NAME": "Victory Square",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "200 W Hastings St, Vancouver, BC V6B 1G8",
@@ -152,6 +151,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-123.10717455591674, 49.27997400720125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS_MAP": "https://goo.gl/maps/iMTQBNsab89Yv3AL6",
+        "IMAGES": "washroom05.jpeg",
+        "NAME": "Hannam Supermarket",
+        "NAME_FR": "Planchodrome Bearbrook",
+        "ADDRESS": "1323 Robson St #202, Vancouver, BC V6E 1C6",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.128883, 49.287449]
       }
     }
   ]
