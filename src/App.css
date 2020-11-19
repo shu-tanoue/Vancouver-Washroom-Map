@@ -13,8 +13,8 @@
 }
 
 .btn-position {
-  position: relative;
-  bottom: 80px;
+  position: absolute;
+  bottom: -70px;
   left: 10px;
 }
 span {
