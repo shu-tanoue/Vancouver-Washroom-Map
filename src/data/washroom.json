@@ -11,18 +11,16 @@
         "PARK_ID": 960,
         "FACILITYID": 28014,
         "ADDRESS_MAP": "https://goo.gl/maps/CVFGPZc2V4Gvf2ne8",
-        "IMAGES": "toilet.png",
+        "IMAGES": "washroom08.jpeg",
         "NAME": "CF Pacific Centre",
-        "NAME_FR": "Planchodrome Bearbrook",
         "ADDRESS": "701 W Georgia St, Vancouver, BC V7Y 1G5",
-        "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.11968, 49.28024]
+        "coordinates": [-123.11917888152594, 49.282747414842326]
       }
     },
     {
@@ -171,6 +169,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-123.128883, 49.287449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS_MAP": "https://goo.gl/maps/D61vfwuMpmRyo2u17",
+        "IMAGES": "washroom09.jpeg",
+        "NAME": "Robson Street Public Bathroom",
+        "ADDRESS": "701 Robson St, Vancouver, BC V6Z 1A1",
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.11976, 49.2814]
       }
     }
   ]
