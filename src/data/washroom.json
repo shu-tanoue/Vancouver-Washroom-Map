@@ -34,21 +34,10 @@
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "1766 Robson St, Vancouver, BC V6G 1E2",
         "ADDRESS_FR": "1490, promenade Youville",
-        "FACILITY_T": "other",
-        "FACILITY_1": "autre",
-        "ACCESSCTRL": "no/non",
-        "ACCESSIBLE": "no/non",
-        "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
-        "CREATED_DA": null,
-        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
-        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
-        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "DESCRIPT_1": "Surface d'asphalte plane, 10 modules, programmes et camps de planche à roulettes en été géré par la Ville",
-        "PICTURE_LI": null,
-        "PICTURE_DE": null,
-        "PICTURE__1": null
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
       },
       "geometry": {
         "type": "Point",
@@ -66,21 +55,10 @@
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "200 W Hastings St, Vancouver, BC V6B 1G8",
         "ADDRESS_FR": "1490, promenade Youville",
-        "FACILITY_T": "other",
-        "FACILITY_1": "autre",
-        "ACCESSCTRL": "no/non",
-        "ACCESSIBLE": "no/non",
-        "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
-        "CREATED_DA": null,
-        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
-        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
-        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "DESCRIPT_1": "Surface d'asphalte plane, 10 modules, programmes et camps de planche à roulettes en été géré par la Ville",
-        "PICTURE_LI": null,
-        "PICTURE_DE": null,
-        "PICTURE__1": null
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        
       },
       "geometry": {
         "type": "Point",
@@ -98,21 +76,9 @@
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "601 W Cordova St, Vancouver, BC V6B 1G1",
         "ADDRESS_FR": "601 W Cordova St, Vancouver, BC V6B 1G1",
-        "FACILITY_T": "other",
-        "FACILITY_1": "autre",
-        "ACCESSCTRL": "no/non",
-        "ACCESSIBLE": "no/non",
-        "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
-        "CREATED_DA": null,
-        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
-        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
-        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "DESCRIPT_1": "Surface d'asphalte plane, 10 modules, programmes et camps de planche à roulettes en été géré par la Ville",
-        "PICTURE_LI": null,
-        "PICTURE_DE": null,
-        "PICTURE__1": null
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
         "type": "Point",
@@ -130,21 +96,9 @@
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "88 W Pender St, Vancouver, BC V6B 6N9",
         "ADDRESS_FR": "601 W Cordova St, Vancouver, BC V6B 1G1",
-        "FACILITY_T": "other",
-        "FACILITY_1": "autre",
-        "ACCESSCTRL": "no/non",
-        "ACCESSIBLE": "no/non",
-        "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
-        "CREATED_DA": null,
-        "FACILITY": "Community: mid size facility to service population of 40,000 plus",
-        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
-        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "DESCRIPT_1": "Surface d'asphalte plane, 10 modules, programmes et camps de planche à roulettes en été géré par la Ville",
-        "PICTURE_LI": null,
-        "PICTURE_DE": null,
-        "PICTURE__1": null
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +115,6 @@
         "NAME": "Hannam Supermarket",
         "NAME_FR": "Planchodrome Bearbrook",
         "ADDRESS": "1323 Robson St #202, Vancouver, BC V6E 1C6",
-        "OPEN": null,
         "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
