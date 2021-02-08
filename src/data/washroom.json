@@ -141,6 +141,74 @@
         "type": "Point",
         "coordinates": [-123.11976, 49.2814]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS_MAP": "https://goo.gl/maps/HR47rGjcdyCUWjQ2A",
+        "IMAGES": "washroom10.jpeg",
+        "NAME": "Stanley Park Bathroom",
+        "ADDRESS": "1100 Stanley Park Dr #902, Vancouver, BC V6G 3E2",
+        "NOTES": "Outdoor",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.124750, 49.297980]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS_MAP":"https://goo.gl/maps/m8h34zjMZn1eVkEm9",
+        "IMAGES": "washroom11.jpeg",
+        "NAME": "Harbour Green Park Public Washroom",
+        "ADDRESS": "1199 W Cordova St, Vancouver, BC V6C 3R4",
+        "NOTES": "Outdoor",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.113870, 49.286630]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS_MAP":"https://goo.gl/maps/tzdTRhPfoSQhgyey5",
+        "IMAGES": "washroom12.jpeg",
+        "NAME": "Powell at Main Public Washroom",
+        "ADDRESS": "Powell St, Vancouver, BC V6A 1G2",
+        "NOTES": "Outdoor",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.084270, 49.282750]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS_MAP":"https://goo.gl/maps/rFPVMJUP2D28gNyJ8",
+        "IMAGES": "washroom12.jpeg",
+        "NAME": "Nelson Park Public Bathroom",
+        "ADDRESS": "1J2, 1030 Bute St, Vancouver, BC V6E 1Y9",
+        "NOTES": "Outdoor",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.084270, 49.282750]
+      }
     }
   ]
 }
