@@ -8,36 +8,13 @@
     {
       "type": "Feature",
       "properties": {
-        "PARK_ID": 960,
-        "FACILITYID": 28014,
-        "ADDRESS_MAP": "https://goo.gl/maps/CVFGPZc2V4Gvf2ne8",
-        "IMAGES": "washroom08.jpeg",
-        "NAME": "CF Pacific Centre",
-        "ADDRESS": "701 W Georgia St, Vancouver, BC V7Y 1G5",
-        "NOTES": "Outdoor",
-        "MODIFIED_D": "2018/01/18",
-        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.11917888152594, 49.282747414842326]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "PARK_ID": 1219,
         "ADDRESS_MAP": "https://goo.gl/maps/3xngsk8i7gQPncAr5",
         "IMAGES": "washroom01.jpeg",
-        "FACILITYID": 28001,
         "NAME": "Safeway Robson",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "1766 Robson St, Vancouver, BC V6G 1E2",
-        "ADDRESS_FR": "1490, promenade Youville",
-        "NOTES": "Outdoor",
-        "MODIFIED_D": "2018/01/18",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
       },
       "geometry": {
         "type": "Point",
@@ -48,15 +25,11 @@
       "type": "Feature",
       "properties": {
         "PARK_ID": 1219,
-        "FACILITYID": 28001,
         "ADDRESS_MAP": "https://goo.gl/maps/2WNaHMBGAMd22a42A",
         "IMAGES": "washroom02.jpeg",
         "NAME": "Victory Square",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "200 W Hastings St, Vancouver, BC V6B 1G8",
-        "ADDRESS_FR": "1490, promenade Youville",
-        "NOTES": "Outdoor",
-        "MODIFIED_D": "2018/01/18",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         
       },
@@ -69,71 +42,74 @@
       "type": "Feature",
       "properties": {
         "PARK_ID": 1219,
-        "FACILITYID": 28001,
-        "ADDRESS_MAP": "https://goo.gl/maps/fwi6kEntccA5zpX37",
-        "IMAGES": "toilet.png",
-        "NAME": "Waterfront Station",
-        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
-        "ADDRESS": "601 W Cordova St, Vancouver, BC V6B 1G1",
-        "ADDRESS_FR": "601 W Cordova St, Vancouver, BC V6B 1G1",
-        "NOTES": "Outdoor",
-        "MODIFIED_D": "2018/01/18",
+        "ADDRESS_MAP": "https://goo.gl/maps/xsLh2aqrEtw6Bcey7",
+        "IMAGES": "washroom03.jpeg",
+        "NAME": "Main at Terminal Public Washroom",
+        "ADDRESS": "Vancouver, BC",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.1114359, 49.2856144]
+        "coordinates": [-123.0997823220092, 49.273163198299876]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "PARK_ID": 1219,
-        "FACILITYID": 28001,
-        "ADDRESS_MAP": "https://goo.gl/maps/FoCA4WKprRBgbnUp9",
-        "IMAGES": "toilet.png",
-        "NAME": "International Village Mall",
-        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
-        "ADDRESS": "88 W Pender St, Vancouver, BC V6B 6N9",
-        "ADDRESS_FR": "601 W Cordova St, Vancouver, BC V6B 1G1",
-        "NOTES": "Outdoor",
-        "MODIFIED_D": "2018/01/18",
+        "ADDRESS_MAP": "https://goo.gl/maps/kRcB2QnLviRu7gVD8",
+        "IMAGES": "washroom04.jpeg",
+        "NAME": "Andy Livingstone Park Public Washroom",
+        "ADDRESS": "South Side Field House Andy Livingston Park, 89 Expo Blvd, Vancouver, BC V6B 6N5",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.10717455591674, 49.27997400720125]
+        "coordinates": [-123.10360753863682, 49.279247143969904]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "PARK_ID": 960,
-        "FACILITYID": 28014,
         "ADDRESS_MAP": "https://goo.gl/maps/iMTQBNsab89Yv3AL6",
         "IMAGES": "washroom05.jpeg",
         "NAME": "Hannam Supermarket",
         "NAME_FR": "Planchodrome Bearbrook",
         "ADDRESS": "1323 Robson St #202, Vancouver, BC V6E 1C6",
-        "NOTES": "Outdoor",
-        "MODIFIED_D": "2018/01/18",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-123.128883, 49.287449]
       }
+    }, 
+     {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP": "https://goo.gl/maps/CVFGPZc2V4Gvf2ne8",
+        "IMAGES": "washroom08.jpeg",
+        "NAME": "CF Pacific Centre",
+        "ADDRESS": "701 W Georgia St, Vancouver, BC V7Y 1G5",
+        "MODIFIED_D": "2018/01/18",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.11917888152594, 49.282747414842326]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "PARK_ID": 960,
-        "FACILITYID": 28014,
         "ADDRESS_MAP": "https://goo.gl/maps/D61vfwuMpmRyo2u17",
         "IMAGES": "washroom09.jpeg",
         "NAME": "Robson Street Public Bathroom",
         "ADDRESS": "701 Robson St, Vancouver, BC V6Z 1A1",
-        "NOTES": "Outdoor",
         "MODIFIED_D": "2018/01/18",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
@@ -146,12 +122,10 @@
       "type": "Feature",
       "properties": {
         "PARK_ID": 960,
-        "FACILITYID": 28014,
         "ADDRESS_MAP": "https://goo.gl/maps/HR47rGjcdyCUWjQ2A",
         "IMAGES": "washroom10.jpeg",
         "NAME": "Stanley Park Bathroom",
         "ADDRESS": "1100 Stanley Park Dr #902, Vancouver, BC V6G 3E2",
-        "NOTES": "Outdoor",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
@@ -163,12 +137,10 @@
       "type": "Feature",
       "properties": {
         "PARK_ID": 960,
-        "FACILITYID": 28014,
         "ADDRESS_MAP":"https://goo.gl/maps/m8h34zjMZn1eVkEm9",
         "IMAGES": "washroom11.jpeg",
         "NAME": "Harbour Green Park Public Washroom",
         "ADDRESS": "1199 W Cordova St, Vancouver, BC V6C 3R4",
-        "NOTES": "Outdoor",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
@@ -180,12 +152,10 @@
       "type": "Feature",
       "properties": {
         "PARK_ID": 960,
-        "FACILITYID": 28014,
         "ADDRESS_MAP":"https://goo.gl/maps/tzdTRhPfoSQhgyey5",
         "IMAGES": "washroom12.jpeg",
         "NAME": "Powell at Main Public Washroom",
         "ADDRESS": "Powell St, Vancouver, BC V6A 1G2",
-        "NOTES": "Outdoor",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
@@ -197,17 +167,210 @@
       "type": "Feature",
       "properties": {
         "PARK_ID": 960,
-        "FACILITYID": 28014,
-        "ADDRESS_MAP":"https://goo.gl/maps/rFPVMJUP2D28gNyJ8",
-        "IMAGES": "washroom12.jpeg",
+        "ADDRESS_MAP":"https://goo.gl/maps/36BSRma83yaQtP9s6",
+        "IMAGES": "washroom13.jpeg",
         "NAME": "Nelson Park Public Bathroom",
         "ADDRESS": "1J2, 1030 Bute St, Vancouver, BC V6E 1Y9",
-        "NOTES": "Outdoor",
         "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.084270, 49.282750]
+        "coordinates": [-123.129620, 49.282570]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/2vmfQXzZARUFf8Dt6",
+        "IMAGES": "washroom14.jpeg",
+        "NAME": "Davie Street Public Bathroom",
+        "ADDRESS": "1170 Bute St, Vancouver, BC V6E 1Z6",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.13279159604096, 49.28294613248443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/uA2pU8neKaQa39SRA",
+        "IMAGES": "washroom15.jpeg",
+        "NAME": "Public Toilet Bathroom",
+        "ADDRESS": "1170 Bute St, Vancouver, BC V6E 1Z6",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.14284249530937, 49.286365250587984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/QBez4GK6GgSE9PdEA",
+        "IMAGES": "washroom16.jpeg",
+        "NAME": "Public Toilet Bathroom",
+        "ADDRESS": "8701 Stanley Park Dr, Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.14866886874871, 49.294150091206866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/oRxj5Zep2ZXWnfb5A",
+        "IMAGES": "washroom17.jpeg",
+        "NAME": "Second Beach Public Bathroom",
+        "ADDRESS": "7495 Stanley Park Dr, Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.15095606937264, 49.29719226180729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/j6wZpDoLUuYaN1KU7",
+        "IMAGES": "washroom18.jpeg",
+        "NAME": "3rd Beach Public Washroom",
+        "ADDRESS": "Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.15591094684224, 49.304077332037345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/CMTnBm71BwB1U6P18",
+        "IMAGES": "washroom19.jpeg",
+        "NAME": "Rock Garden Public Bathroom",
+        "ADDRESS": "600 Pipeline Rd, Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.13523644202624, 49.30160509256061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/CMTnBm71BwB1U6P18",
+        "IMAGES": "washroom20.jpeg",
+        "NAME": "Aquarium Plaza Public Washroom",
+        "ADDRESS": "Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1308433579265, 49.3003203375292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/TQEN5XVLSqMKmeMg7",
+        "IMAGES": "washroom21.jpeg",
+        "NAME": "Prospect Point Public Washrooms",
+        "ADDRESS": "Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.14276500748853, 49.31306790239174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/GCspo4JkWM3qJwuz9",
+        "IMAGES": "washroom22.jpeg",
+        "NAME": "Lumberman's Arch Public Washroom",
+        "ADDRESS": "Vancouver, BC V6G 3E2",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.14276500748853, 49.31306790239174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "ADDRESS_MAP": "https://goo.gl/maps/FoCA4WKprRBgbnUp9",
+        "IMAGES": "washroom23.jpeg",
+        "NAME": "International Village Mall",
+        "ADDRESS": "601 W Cordova St, Vancouver, BC V6B 1G1",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.10717455591674, 49.27997400720125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "ADDRESS_MAP": "https://goo.gl/maps/fwi6kEntccA5zpX37",
+        "IMAGES": "washroom24.jpeg",
+        "NAME": "Waterfront Stn Seabus washroom",
+        "ADDRESS_FR": "601 W Cordova St, Vancouver, BC V6B 1G1",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1114359, 49.2856144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/C2wQeEPDGoAcvPGZ7",
+        "IMAGES": "washroom25.jpeg",
+        "NAME": "David Lam Park Public Washroom",
+        "ADDRESS": "1300 Pacific Blvd, Vancouver, BC V6Z 2Y1",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.12482117418908, 49.27522305589609] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "ADDRESS_MAP":"https://goo.gl/maps/pFufFtTmEYKnzcDt9",
+        "IMAGES": "washroom26.jpeg",
+        "NAME": "Hadden Park Public Washroom",
+        "ADDRESS": "Vancouver, BC V6J 3R4",
+        "DESCRIPTIO": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1504045051316, 49.27793138314893]
       }
     }
   ]
