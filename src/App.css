@@ -11,15 +11,14 @@
   background: #33acff;
   width: 100vw;
 }
-button {
-  height: 40px !important;
-  width: 40px !important;
-  border-radius: none !important;
-}
+
 .btn-position {
   position: absolute;
   bottom: 27px;
   left: 10px;
+  height: 40px;
+  width: 45px;
+  border-radius: none !important;
 }
 span {
   font-size: 50px;
