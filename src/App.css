@@ -13,11 +13,12 @@
 }
 
 .btn-position {
-  position: absolute;
-  bottom: 27px;
-  left: 10px;
-  height: 45px;
-  width: 45px;
+  display: block;
+  position: absolute !important;
+  bottom: 27px !important;
+  left: 10px !important;
+  height: 45px !important;
+  width: 45px !important;
   border-radius: none !important;
 }
 span {
