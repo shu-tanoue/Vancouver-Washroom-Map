@@ -11,7 +11,10 @@
   background: #33acff;
   width: 100vw;
 }
-
+button {
+  height: inherit;
+  width: inherit;
+}
 .btn-position {
   position: absolute;
   bottom: 27px;
