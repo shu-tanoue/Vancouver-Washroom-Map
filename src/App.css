@@ -14,12 +14,8 @@
 
 .btn-position {
   position: absolute;
-  top: 7.7rem;
-  left: 13.5rem;
-  background-color: #fff;
-  border: none;
-  border-radius: 50px;
-  box-shadow: 0 1px 4px -1px rgb(0 0 0 / 30%);
+  bottom: -70px;
+  left: 10px;
 }
 span {
   font-size: 50px;
