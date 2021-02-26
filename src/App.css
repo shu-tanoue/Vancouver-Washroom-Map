@@ -12,8 +12,8 @@
   width: 100vw;
 }
 button {
-  height: inherit;
-  width: inherit;
+  height: 40px !important;
+  width: 45px !important;
 }
 .btn-position {
   position: absolute;
