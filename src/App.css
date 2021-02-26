@@ -12,20 +12,13 @@
   width: 100vw;
 }
 
-element.style {
-}
 .btn-position {
   position: absolute;
-  top: 122px;
-  left: 215px;
-  justify-content: center;
-  margin: 0 auto;
-  align-items: center;
-  padding-top: 3.5px;
-  padding-bottom: 3.5px;
+  top: 7.7rem;
+  left: 13.5rem;
   background-color: #fff;
   border: none;
-  border-radius: 22px;
+  border-radius: 50px;
   box-shadow: 0 1px 4px -1px rgb(0 0 0 / 30%);
 }
 span {
