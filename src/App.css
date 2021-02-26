@@ -11,11 +11,16 @@
   background: #33acff;
   width: 100vw;
 }
-
 .btn-position {
   position: absolute;
-  bottom: -70px;
-  left: 10px;
+  top: 121px;
+  left: 215px;
+  padding-top: 3.5px;
+  padding-bottom: 3.5px;
+  background-color: white;
+  border: none;
+  border-radius: 2px;
+  box-shadow: rgb(0 0 0 / 30%) 0px 1px 4px -1px;
 }
 span {
   font-size: 50px;
