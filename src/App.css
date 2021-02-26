@@ -12,8 +12,8 @@
   width: 100vw;
 }
 button {
-  height: 100% !important;
-  width: 100% !important;
+  height: 40px !important;
+  width: 40px !important;
   border-radius: none !important;
 }
 .btn-position {
